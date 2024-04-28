@@ -87,7 +87,7 @@ const UpdatePracticePlan = () => {
                 <label className="ps-3">Compelted?</label><br></br>
             </div>
             {/* SUBMIT */}
-            <button className="btn btn-lg btn-warning mt-4" type="submit">Submit</button>
+            <button className="btn btn-lg btn-warning mt-4" type="submit">Update</button>
         </form>
         </>
     )
